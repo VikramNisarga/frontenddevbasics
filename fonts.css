@@ -1,0 +1,14 @@
+body,
+html {
+    font-size: 10px;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    list-style-image: url("images/my_triangle.png")
+}
+
+#listheader {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkred;
+}
